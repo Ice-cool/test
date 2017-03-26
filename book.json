@@ -1,0 +1,49 @@
+{
+    "title": "",
+    "description": "",
+    "author": "",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.2",
+    "root": ".",
+
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-highlight",
+        "-livereload",
+        "search-plus",
+	"prism",
+	"prism-themes",
+        "katex",
+	"github",
+	"emphasize",
+	"splitter",
+	"anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+    "prism": {
+	"css": [
+	"prismjs/themes/prism-solarizedlight.css"
+	]},
+    "github": {
+        "url": "https://github.com/acecoooool"},
+    "anchor-navigation-ex": {
+	"showLevel": true,
+	"associatedWithSummary": true,
+	"mode": "float",
+	"float": {
+	"showLevelIcon": false,
+	"level1Icon": "fa fa-hand-o-right",
+	"level2Icon": "fa fa-hand-o-right",
+	"level3Icon": "fa fa-hand-o-right"
+	},
+	"pageTop": {
+	"showLevelIcon": false,
+	"level1Icon": "fa fa-hand-o-right",
+	"level2Icon": "fa fa-hand-o-right",
+	"level3Icon": "fa fa-hand-o-right"
+	}
+        }
+    }
+}
