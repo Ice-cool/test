@@ -24,7 +24,7 @@
     "pluginsConfig": {
     "prism": {
 	"css": [
-	"prismjs/themes/prism-tomorrow.css"
+	"prismjs/themes/prism-dark.css"
 	]},
     "github": {
         "url": "https://github.com/acecoooool"},
