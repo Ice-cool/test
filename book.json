@@ -24,7 +24,7 @@
     "pluginsConfig": {
     "prism": {
 	"css": [
-	"prismjs/themes/prism-solarizedlight.css"
+	"prismjs/themes/prism-okaidia.css"
 	]},
     "github": {
         "url": "https://github.com/acecoooool"},
